@@ -47,11 +47,11 @@ Esse projeto depende das seguintes bibliotecas:
 
 Desenvolvido pela área de PLN (processamento de linguagem natural) do [Grupo Turing](https://github.com/GrupoTuringCodes):
 
-- [Fernando Matsumoto](https://github.com/GrupoTuringCodes/fernando-pessoa)
+- [Fernando Matsumoto](https://github.com/fernandokm)
 - [Iago Nunes](https://github.com/juliapocciotti)
 - [Igor de Camargo](https://github.com/IgorCSC)
 - [Júlia Pocciotti](https://github.com/juliapocciotti)
-- [Lucas Sepeda]()
+- [Lucas Sepeda](https://github.com/likury)
 
 ## Licença
 
