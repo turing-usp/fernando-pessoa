@@ -50,7 +50,7 @@ Desenvolvido pela área de PLN (processamento de linguagem natural) do [Grupo Tu
 - [Fernando Matsumoto](https://github.com/fernandokm)
 - [Iago Nunes](https://github.com/iago)
 - [Igor Câmara](https://github.com/IgorCSC)
-- [Júlia Pocciotti](https://github.com/juliapocciotti)
+- [Julia Pocciotti](https://github.com/juliapocciotti)
 - [Lucas Sepeda](https://github.com/likury)
 
 ## Licença
