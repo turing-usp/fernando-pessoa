@@ -51,7 +51,6 @@ preshed==3.0.2
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
 Protego==0.1.16
-pt-core-news-sm==2.2.5
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
