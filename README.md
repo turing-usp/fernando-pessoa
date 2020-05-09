@@ -1,6 +1,6 @@
 # Classificador de Poemas do Fernando Pessoa
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GrupoTuringCodes/fernando-pessoa/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GrupoTuring/fernando-pessoa/master)
 
 Projeto desenvolvido pelo Grupo Turing para classificar poemas do Fernando Pessoa
 de acordo com o heterônimo que os escreveu. Nesse classificador, foram considerados
@@ -13,7 +13,7 @@ Mais informações estão disponíveis no post do medium sobre o projeto:
 ## Pré-requisitos
 
 Esse projeto foi desenvolvido utilizado Python 3 e Jupyter notebooks. Ele pode ser visualizado online
-em um [binder](https://mybinder.org/v2/gh/GrupoTuringCodes/fernando-pessoa/master).
+em um [binder](https://mybinder.org/v2/gh/GrupoTuring/fernando-pessoa/master).
 
 Alternativemente, as dependências desse projeto estão listadas em [requirements.txt](requirements.txt).
 Para instalá-las, utilize o comando:
