@@ -66,7 +66,7 @@ Além disso, a análise de dados foi feita em [jupyter notebooks](https://jupyte
 
 ## Autores
 
-Desenvolvido pela área de PLN (processamento de linguagem natural) do [Grupo Turing](https://github.com/GrupoTuring):
+Desenvolvido pela área de PLN (processamento de linguagem natural) do [Turing USP](https://github.com/turing-usp):
 
 - [Fernando Matsumoto](https://github.com/fernandokm)
 - [Iago Nunes](https://github.com/iago)
